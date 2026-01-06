@@ -1,0 +1,29 @@
+# Build outputs
+bin/
+obj/
+
+# Legacy subdirectory (delete manually after closing IDE)
+PluginTraceExtractor/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Config with secrets (use template instead)
+appsettings.json
+
+# Output files
+*.csv
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
